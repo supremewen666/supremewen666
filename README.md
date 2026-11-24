@@ -35,7 +35,7 @@ Operating Systems · AI Infrastructure
 | :--- | :--- |
 | [**EasyRAG**](https://github.com/supremewen666/EasyRAG) | 面向学习与实践的 RAG 项目，通过文档、Notebook 和代码拆解加载、索引、检索、生成与评估。 |
 | [**GovernMem**](https://github.com/supremewen666/GovernMem) | 围绕持久化 Agent 记忆的治理、演化与失败修复开展研究。 |
-| ** 期待你在将来的 AI Infra 开源项目中看到我 ** ｜
+| **期待你在未来的 AI Infra 开源项目/分布式系统相关框架中看到我的贡献** ｜
 
 ### 文字 / Writing
 
